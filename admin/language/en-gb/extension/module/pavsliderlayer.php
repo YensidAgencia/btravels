@@ -1,0 +1,212 @@
+<?php
+// Heading
+$_['heading_title']                 = 'Modificar Slider';
+
+// Text
+$_['text_module']                   = 'Modulos';
+$_['text_success']                  = 'Successo: Slider Modificado';
+$_['text_content_top']              = 'Topo';
+$_['text_content_bottom']           = 'Rodapé';
+$_['text_column_left']              = 'Coluna Esquerda';
+$_['text_column_right']             = 'Coluna Direita';
+$_['text_mainmenu']                 = 'Menu Principal';
+$_['text_slideshow']                = 'Slideshow';
+$_['text_promotion']                = 'Promoção';
+$_['text_bottom1']                  = 'Rodapé 1';
+$_['text_bottom2']                  = 'Rodapé 2';
+$_['text_bottom3']                  = 'Rodapé 3';
+$_['text_footer_top']               = 'Topo do Rodapé';
+$_['text_footer_center']            = 'Centro do Rodapé';
+$_['text_footer_bottom']            = 'Baixo Rodapé';
+$_['text_no_shadow']                = 'Sem Sombra';
+$_['text_browse']                   = 'Procurar';
+$_['text_clear']                    = 'Apagar Tudo';
+$_['text_create_new_slider']        = 'Criar Novo Slider';
+$_['text_edit_slider']              = 'Editar Slider';
+$_['text_clone_this']               = 'Clonar';
+$_['text_confirm_delete']           = 'Deletar - Tem Certeza?';
+$_['text_create_new']               = 'Criar Novo';
+$_['text_top']                      = 'Topo';
+$_['text_bottom']                   = 'Rodapé';
+$_['text_bullet']                   = 'Balas';
+$_['text_thumbnail']                = 'Miniatura';
+$_['text_both']                     = 'Ambos';
+$_['text_verticalcentered']         = 'Centrocor Vertical';
+$_['text_nexttobullets']            = 'Próximo às balas';
+$_['text_round']                    = 'Redondo';
+$_['text_navbar']                   = 'Navegação';
+$_['text_round_old']                = 'Curva Velha';
+$_['text_square_old']               = 'Quadrado Velho';
+$_['text_navbar_old']               = 'Navegação Velha';
+
+// Entry
+$_['entry_banner']                  = 'Grupo Slider';
+$_['entry_dimension']               = 'Dimensão (Alt x Larg):';
+$_['entry_height']                  = 'Banner Altura:';
+$_['entry_width']                   = 'Banner Largura:';
+$_['entry_title']                   = 'Titulo:';
+$_['entry_description']             = 'Descrição:';
+$_['entry_layout']                  = 'Layout:';
+$_['entry_position']                = 'Posição:';
+$_['entry_status']                  = 'Status:';
+$_['entry_sort_order']              = 'Ordenar Por:';
+$_['entry_image_navigator']         = 'Mostar Miniatura no Navegador' ;
+$_['entry_navigator_width']         = 'Largura da miniatura';
+$_['entry_navigator_height']        = 'Altura da miniatura';
+
+// Error
+$_['error_permission']              = 'Aviso: Sem premissão para modificar';
+$_['error_dimension']               = 'Largura &amp; Altura obrigatórias!';
+$_['error_missing_slider_title']    = 'Insira o Título do Slider';
+$_['error_missing_title']           = 'Insira op Título';
+$_['entry_default_store']           = 'Filtrar por Sistema ';
+
+// Other
+$_['all_page']                      = 'Pagina Total';
+$_['Formulário Slider']             = 'Formulário Slider';
+$_['Grupos de Slider Management']      = 'Grupos de Slider - Gerenciar';
+$_['Modules Asignment']             = 'Assinatura de Módulos';
+$_['Import Tools']                  = 'Importar Ferramentas';
+$_['Import Slider']                 = 'Importar Slider';
+$_['Save All And Create New Group'] = 'Salvar tudo e Criar Novo Grupo';
+$_['Save All And Edit Group']       = 'Salvar tudo e Editar';
+$_['List Of Sliders In Group']      = 'Lista de Sliders';
+$_['Salvar Módulos Only']             = 'Salvar Módulos Only';
+$_['Cancel']                        = 'Cancelar';
+$_['Slide Group entry_title']       = 'Título';
+$_['Delay']                         = 'Delay';
+$_['Dimensão Slider']              = 'Start Dimensão Slider';
+$_['Width']                         = 'Largura';
+$_['Height']                        = 'Altura';
+$_['Touch Mobile']                  = 'Touch Mobile';
+$_['Parar com cursor']                 = 'Parar com cursor';
+$_['Modo Lentidão']                  = 'Modo Lentidão';
+$_['Corte de Imagem']                = 'Corte de Imagem';
+$_['Tipo de Sombra']                   = 'Tipo de Sombra';
+$_['Linha de tempo exibição']                = 'Linha de tempo exibição';
+$_['Posição Linha do Tempo']           = 'Posição Linha do Tempo';
+$_['Background Color']              = 'Cor de Fundo';
+$_['Margin']                        = 'Margem';
+$_['Padding(border)']               = 'Espaçamento de Borda';
+$_['Mostrar Imagem de Fundo']         = 'Mostrar Imagem de Fundo';
+$_['Mostrar Imagem de Fundo']         = 'Mostrar Imagem de Fundo';
+$_['URL de Fundo']                = 'URL de Fundo';
+$_['Navigator']                     = 'Navegador';
+$_['Tipo de Navegação']                = 'Tipo de Navegação';
+$_['Arrows']                        = 'Setas';
+$_['Style']                         = 'Estilo';
+$_['Offset Horizontal']             = 'Medida Horizontal';
+$_['Offset Vertical']               = 'Medida Vertical';
+$_['Sempre Mostrar Navegador']         = 'Sempre Mostrar Navegador';
+$_['Esconder Navegador depois de...']          = 'Esconder Navegador depois de...';
+$_['Thumbnails']                    = 'Miniaturas';
+$_['Thumbnail Width']               = 'Miniatura - Larg';
+$_['Thumbnail Height']              = 'Miniatura - Alt';
+$_['Number of Thumbnails']          = 'Numero de Miniaturas';
+$_['Visibilidade Mobile']              = 'Mobile Visibilidade';
+$_['Hide Under Width']              = 'Esconder Largura';
+$_['Preview de Sliders']      = 'Preview de Sliders';
+$_['Gerenciar Sliders']               = 'Gerenciar Sliders';
+$_['Delete']                        = 'Deletar';
+$_['Exportar Sliders']      = 'Exportar Sliders';
+$_['Title']                         = 'Titulo';
+$_['Status']                        = 'Status';
+$_['Transition']                    = 'Transição';
+$_['Slot Amount']                   = 'Amuntuado Espaços';
+$_['Transition Rotation']           = 'Rotação';
+$_['Transition Duration']           = 'Duração';
+$_['Enable Link']                   = 'Habilitar Link';
+$_['Link']                          = 'Link';
+$_['Thumbnail']                     = 'Miniatura';
+$_['Full Width Video']              = 'Largura Video';
+$_['Video ID']                      = 'Video ID';
+$_['Auto Play']                     = 'Auto Play';
+$_['Update Image Slider']           = 'Atualizar Imagem do Slider';
+$_['Preview This Slider']           = 'Preview desse Slider';
+$_['Layers Editor']                 = 'Editor de Camadas';
+$_['Tools Action']                  = 'Ação de Ferramenta';
+$_['Add Layer Image']               = 'Add Imagem Camada';
+$_['Add Layer Video']               = 'Add Video Camada';
+$_['Add Layer Text']                = 'Add Layer Text';
+$_['Video Type']                    = 'Tipo de Video';
+$_['Youtube']                       = 'Youtube';
+$_['Vimeo']                         = 'Vimeo';
+$_['for example youtube']           = 'por exemplo, Youtube';
+$_['Find Video']                    = 'Encontrar Video';
+$_['Use This Video']                = 'Usar este Video';
+$_['Close']                         = 'Fechar';
+$_['Layer Collection']              = 'Coleção de Camadas';
+$_['Edit Layer Data']               = 'Editar Dados Camada';
+$_['Clear']                         = 'Apagar';
+$_['Insert Typo']                   = 'Inserir Tipos';
+$_['Text']                          = 'Texto';
+$_['Effect']                        = 'Efeito';
+$_['Animation']                     = 'Animação';
+$_['Easing']                        = 'Facilitador';
+$_['Speed']                         = 'Velocidade';
+$_['Position']                      = 'Position';
+$_['Top']                           = 'Topo';
+$_['Left']                          = 'Esquerda';
+$_['Other Animation']               = 'Outra Animação';
+$_['End Time']                      = 'Finalizar Tempo';
+$_['End Speed']                     = 'Finalizar Velocidade';
+$_['End Animation']                 = 'Finalizar Animação';
+$_['End Easing']                    = 'Finalizar facilitador';
+$_['Fade']                          = 'Sumir';
+$_['Short from Top']                = 'Distribuir do Topo';
+$_['Short from Bottom']             = 'Distribuir do Rodapé';
+$_['Short from Right']              = 'Distribuir da Direita';
+$_['Short from Left']               = 'Distribuir da Esquerda';
+$_['Long from Top']                 = 'Alongar do Topo';
+$_['Long from Bottom']              = 'Alongar do Rodapé';
+$_['Long from Right']               = 'Alongar da Direita';
+$_['Long from Left']                = 'Alongar da Esquerda';
+$_['Random Rotate']                 = 'Rotação Aleatória';
+$_['Choose Automatic']              = 'Automatico';
+$_['Fade Out']                      = 'Sumir';
+$_['Short to Top']                  = 'Direcionar para Topo';
+$_['Short to Bottom']               = 'Direcionar para Rodapé';
+$_['Short to Left']                 = 'Direcionar para Esquerda';
+$_['Short to Right']                = 'Direcionar para Direita';
+$_['Long to Top']                   = 'Alongar ao Topo';
+$_['Long to Bottom']                = 'Alongar ao Rodapé';
+$_['Long to Left']                  = 'Alongar à Esquerda';
+$_['Long to Right']                 = 'Alongar à Direita';
+$_['Random Rotate Out']             = 'Rotação Aleatória';
+$_['Create New']                    = 'Criar Novo';
+$_['Main Menu']                     = 'Menu Principal';
+$_['Slideshow']                     = 'Slideshow';
+$_['Promotion']                     = 'Promotion';
+$_['Footer Top']                    = 'Topo do Rodapé';
+$_['Footer Center']                 = 'Centro do Rodapé';
+$_['Footer Bottom']                 = 'Baixo Rodapé';
+$_['Preview Management']            = 'Gerenciar Preview';
+$_['Allow insert html code']        = 'Permitir HTML';
+$_['import_data_done']              = 'Import daoos corretos';
+$_['import_data_error']             = 'Import dados errados';
+$_['entry_store']                   = 'Sistemas';
+$_['drap and drop to sort slider in list'] = 'Mova para adicionar item';
+
+$_['button_save_all_and_edit_group']= 'Salvar tudo && Editar';
+$_['button_save_all_and_create_new']= 'Salvar tudo && Create New';
+$_['button_save_module']            = 'Alvar só Módulo';
+
+$_['tab_manage_slider_group']       = 'Gerenciar Slider';
+$_['tab_manage_module']             = 'Gerenciar Módulo';
+$_['tab_import_tools']              = 'Importar/Exportar';
+
+$_['button_import_slider']          = 'Importar';
+
+
+$_['text_could_not_show_preview']   = 'Preview Indisponível';
+
+$_['text_preview_sliders_in_group'] = 'Preview de Sliders';
+$_['text_preview_this_slider']      = 'Preview desse Slider';
+$_['video_type']                    = 'Tipo deVideo';
+$_['typo_management']               = 'Gerenciar Tipo';
+
+$_['error_missing_slider_data']     = 'Clique em "adicionar módulo" para modificar';
+
+$_['entry_module_name']             = 'Nome do Módulo: ';
+
+?>

@@ -1,0 +1,39 @@
+<?php 
+$_['text_day'] 		= 'Day';
+$_['text_hours'] 	= 'Hrs';
+$_['text_days'] 	= 'Day';
+$_['text_min'] 		= 'Min';
+$_['text_sec'] 		= 'Sec';
+$_['text_sold'] 	= 'Sold';
+$_['text_sale_off'] = 'Promoção';
+$_['text_register'] = 'Register';
+$_['text_sign_in']  = 'Membros';
+$_['text_myaccount'] 	= 'Minhas Conta';
+$_['text_sale'] 	= 'Sale';
+$_['text_my_cart'] 		= "Cart";
+$_['text_reviews'] 		= "Reviews";
+$_['text_writeareview'] = "Write A Review";
+$_['text_price'] 		= "Price";
+$_['text_from'] 		= "From";
+$_['text_prev'] 		= "Prev";
+$_['text_next'] 		= "Next";
+$_['text_expand'] 		= "Expand";
+$_['text_Shrink'] 		= "Shrink";
+
+$_['entry_name']	= 'Seu nome';
+$_['entry_email']	= 'E-mail';
+$_['entry_subject']	= 'Assunto';
+$_['entry_message']	= 'Mensagem';
+$_['entry_send_message_text'] = 'Enviar';
+$_['entry_sent_message'] = 'Enviado!';
+$_['error_subject'] = 'Assunto deve ter entre 3 e 32 caracteres';
+$_['error_message'] = 'Messagem deve ter entre 10 e 3000 caracteres';
+
+$_['text_latest'] 		= 'Últimos';
+$_['text_bestseller'] 	= 'Mais Vendidos';
+$_['text_special'] 		= 'Especial';
+$_['text_mostviewed'] 	= 'Mais Vistos';
+$_['text_toprating'] 	= 'Mais votados';
+$_['text_collection'] = 'Collection For';
+$_['text_compare_empty'] = 'Você não selecionou nenhum produto para comparar';
+$_['entry_at_text']		= 'em';

@@ -1,0 +1,30 @@
+2018-10-18 1:40:40 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 1:40:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 1:40:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 1:40:45 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 1:40:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 1:40:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 1:41:03 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 1:41:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 1:41:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:34:37 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 2:34:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 2:34:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:34:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:35:29 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 2:35:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:35:29 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:35:30 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 7
+2018-10-18 2:35:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:35:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\octestes\travels\cl\system\library\db\mysqli.php on line 10
+2018-10-18 2:39:48 - PHP Notice:  Undefined offset: 4 in C:\wamp64\www\octestes\travels\cl\catalog\controller\extension\module\pavuserpopup.php on line 119
+2018-10-18 2:39:48 - PHP Warning:  trim() expects parameter 1 to be string, array given in C:\wamp64\www\octestes\travels\cl\catalog\controller\extension\module\pavuserpopup.php on line 122
+2018-10-18 2:44:55 - PHP Notice:  Undefined offset: 4 in C:\wamp64\www\octestes\travels\cl\catalog\controller\extension\module\pavuserpopup.php on line 119
+2018-10-18 2:44:55 - PHP Warning:  trim() expects parameter 1 to be string, array given in C:\wamp64\www\octestes\travels\cl\catalog\controller\extension\module\pavuserpopup.php on line 122
