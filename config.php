@@ -9,7 +9,7 @@ define('HTTPS_SERVER', 'http://localhost:81/octestes/travels/club/');
 define('DIR_APPLICATION', 'C:/wamp64/www/octestes/travels/club/catalog/');
 define('DIR_SYSTEM', 'C:/wamp64/www/octestes/travels/club/system/');
 define('DIR_IMAGE', 'C:/wamp64/www/octestes/travels/club/image/');
-define('DIR_STORAGE', 'C:/wamp64/storagehhhjjj/');
+define('DIR_STORAGE', 'C:/wamp64/www/octestes/travels/club/storagehhhjjj/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
