@@ -20,8 +20,8 @@ $_['menu_tool_text'] 		= 'Ferramentas';
 $_['menu_management_text'] 	= 'Gerenciamento';
 $_['menu_import_text'] 		= 'Import';
 $_['menu_export_text'] 		= 'Export';
-$_['menu_builder_text']		= 'Block Customizar';
-$_['menu_header_builder_text']	= 'Header Customizar';
+$_['menu_builder_text']		= 'Customizar Conteúdo';
+$_['menu_header_builder_text']	= 'Customizar Cabecalho';
 $_['menu_theme_text'] 		= 'Config. Tema';
 // Text
 $_['text_back'] 				= 'Voltar';
@@ -176,7 +176,7 @@ $_['entry_successfully_text'] 		= 'successfully';
 
 // SETTINGS TEXT
 $_['setting_general']	 	= 'General';
-$_['setting_default_skin'] 	= 'Default Skin';
+$_['setting_default_skin'] 	= 'Skin Padrão';
 $_['setting_theme_width'] 	= 'Width';
 $_['setting_enable_custom_copyright'] 	= 'Enabled Custom Copyright';
 $_['setting_copyright_text']	= 'Copyright';

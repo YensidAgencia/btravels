@@ -21,17 +21,17 @@
 
 
 
-  [data-uniqid="jejen020"] a{color: #fff!important;}
+  [data-uniqid="jejen020"] a{color: #002157!important;}
 
 
-    [data-uniqid="jejen020"]{color: #fff!important; background-color: #0000a3!important}
+    [data-uniqid="jejen020"]{color: #002157!important; background-color: #fff!important}
 
-  [data-uniqid="jehujbgf"] a{color: #fff!important;}
+  [data-uniqid="jehujbgf"] a{color: #002157!important;}
 
 
-    [data-uniqid="je5ew3xp"]{color: #fff!important; background-color: #0000a3!important}
+    [data-uniqid="je5ew3xp"]{color: #002157!important; background-color: #fff!important}
 
-  #top-links619771052 a{color: #fff!important;}
+  #top-links619771052 a{color: #002157!important;}
 
   @media (min-width: 1024px){
 
@@ -41,30 +41,50 @@
 }
 
 }
-.pavo-header-builder{position:relative; background-color: #0000a3!important }
+.pavo-header-builder{position:relative; background-color: #fff!important }
 
 .mainmenu .navbar .navbar-nav  li  a{
 
-color: #fff!important;
+color: #002157!important;
 
 }
 
-.pavo-popup-search{color: #fff!important; background-color: #0000a3!important}
+.pavo-popup-search{color: #002157!important; background-color: #fff!important}
 
-.pavo-popup-search i{color: #fff!important;}
+.pavo-popup-search i{color: #002157!important;}
 
-header .wrap-right{color: #fff!important; background-color: #0000a3!important}
+header .wrap-right{color: #002157!important; background-color: #fff!important}
 
 
-header .wrap-right i{color: #fff!important;}
+header .wrap-right i{color: #002157!important;}
 
-.dropdown span{color: #fff!important; text-decoration: none!important}
-.dropdown span:hover{color: #fff!important; text-decoration: underline!important}
+.dropdown span{color: #002157!important; text-decoration: none!important}
+.dropdown span:hover{color: #002157!important; text-decoration: underline!important}
 
-.dropdown-menu li a{color: #fff!important}.dropdown-menu-right li a{color: #000!important}
+.dropdown-menu li a{color: #002157!important}.dropdown-menu-right li a{color: #000!important}
 
 
 
 .tomonim{color: #000!important;}
 
 .tomonim a{color: #000!important;}
+
+
+@media (min-width: 1023px){
+
+#logo{ height: 100px!important; width: auto!important; margin-top: 30px!important }
+#logo a{ height: 100px!important; width: auto!important }
+#logo a img{ height: 100px!important; width: auto!important }
+[data-uniqid="jd70mye0"] .container{ width: 100%!important; padding: 0px!important; margin: 0px!important; }
+
+
+
+} /*1023px*/
+
+
+h1, h2, h3, h4, h5, h6, html, body, .pavo-widget-text p{font-family: "ABeeZee",Arial,sans-serif!important}
+
+
+#buscan{width: 400px; display: table; left: 0%; background-color: #002157; top: 30%; z-index: 9999!important}
+
+.buscan{width: 400px; display: table; left: 0%; background-color: #002157; top: 30%; z-index: 9999!important}
